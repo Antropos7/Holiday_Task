@@ -1,0 +1,43 @@
+
+* {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family: "Alkatra", cursive;
+  font-family: "Edu NSW ACT Foundation", cursive;
+  font-size: 40px;
+  color: rgb(70, 70, 70);
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+}
+p{
+  color: gray;
+  font-size: 25px;
+}
+.lorem {
+  color: gray;
+  font-size: 25px;
+  width: 1000px;
+}
+img{
+  opacity: 80%;
+}
+button{
+  border: gray solid;
+  border-top: transparent;
+  border-bottom: transparent;
+  padding: 2px 8px;
+  background-color: white;
+  font-family: "Alkatra", cursive;
+  font-weight: 600;
+  font-size: large;
+  color:gray;
+  cursor:progress
+  
+}
